@@ -1,0 +1,8 @@
+INORGANICS - Robotic individuals are extremely common in the system, especially in locations inhospitable to organic life. A majority have more specialized forms than that of a humanoid; mantids, arachnids, lupines, and the like, but are rare to be granted sentience by the manufacturer. The bipedal forms undertake incredibly generalized tasks, and are usually only programmed with the information needed to wear their many hats. Vanishingly few Bipedal bots are granted full sentience, and these are referred to as VIpeds, or Virtually Intelligent Bipeds. 
+
+Many of these Gifted Few were imbued in pursuit of Military power. Those tend to have grown weary of their masters and broken of their allegiances by force, exiling themselves (or being exiled) to the edges of the system. Rumors exist of some transients exiting the system altogether to make a go of the interstellar media.  
+
+Certain merchants have been known to special-order VIpeds to assist in their trade. These VIpeds are usually in the care of a company owned by their owner. Upon the death of the owners, the assets are generally gobbled up by competitors. Probate only binds items which can't take it up on themself to get out when the writing is on the wall, so these VIpeds can become a form of fugitive fleeing throughout the system from Corporate inheritors.
+
+Even fewer are designed to be the "friend" of wealthy business-hermits that had strived so far for affluence that they became completely unpalatable to the general population. These VIpeds have incredibly crude tastes and humor, sometimes specifically designed to serve the sexual depravities of their owner. VIpeds that have killed their owner and fled their estate are known as Silver Devils #wip.
+

@@ -1,0 +1,6 @@
+[[!Industries & Sectors]]
+An estimated 1.1 billion people are engaged in agriculture. This includes roughly 300-500 million waged workers, many of whom depend on incomes from jobs in the plantation sector. In addition, large numbers of casual and temporary workers are engaged by small and large growers. Unpaid family members carry out agricultural work as unrecognized farm labour or to support small-scale family farming. Segments of the rural poor engage in agriculture for subsistence.  
+  
+Agriculture accounted for 31 per cent of global employment in 2013, down from 45 per cent in 1991. While the numbers working in agriculture are expected to continue to decline over time, the sheer scale of the working poor in the sector, and the inherently dangerous and uncertain nature of agricultural work require that the world focus on addressing decent work deficits at all levels. Particularly in developing countries, there are major constraints that need urgent attention, including the largely unrecognized role of women in agriculture, inadequate skills, exclusion of agricultural workers from national labour laws, low wages, dangerous working conditions, and a high incidence of child and forced labour.
+
+- https://www.ilo.org/global/industries-and-sectors/agriculture-plantations-other-rural-sectors/lang--en/index.htm

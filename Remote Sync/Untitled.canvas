@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d5b0b97a025134e8","x":-620,"y":-320,"width":820,"height":400,"color":"5","type":"file","file":"Planets/01 - Mercury/!Planet - Mercury.md"},
+		{"id":"568214bdcbba3996","x":-620,"y":80,"width":820,"height":410,"type":"file","file":"!Agnostic/!Assets/NAMED_MERCURIAN_CRATERS.svg.png"}
+	],
+	"edges":[]
+}

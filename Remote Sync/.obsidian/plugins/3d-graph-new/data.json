@@ -1,0 +1,133 @@
+{
+  "savedSettings": [
+    {
+      "title": "Se",
+      "id": "4a035c40-2bdc-4b2b-a81f-7c3a91479f8a",
+      "setting": {
+        "filter": {
+          "searchQuery": "",
+          "showOrphans": true,
+          "showAttachments": false
+        },
+        "groups": [
+          {
+            "query": "path:Companies  ",
+            "color": "#3d92e1"
+          }
+        ],
+        "display": {
+          "nodeSize": 3,
+          "linkThickness": 2,
+          "linkDistance": 169,
+          "nodeRepulsion": 2800,
+          "distanceFromFocal": 330,
+          "nodeHoverColor": "#ff0000",
+          "nodeHoverNeighbourColor": "#00ff00",
+          "linkHoverColor": "#0000ff",
+          "showExtension": false,
+          "showFullPath": false,
+          "showCenterCoordinates": false,
+          "showLinkArrow": true,
+          "dontMoveWhenDrag": false,
+          "dagOrientation": "bu"
+        }
+      },
+      "type": "local"
+    }
+  ],
+  "temporaryLocalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": false,
+      "depth": 1,
+      "linkType": "both"
+    },
+    "groups": [
+      {
+        "query": "path:Companies  ",
+        "color": "#3d92e1"
+      }
+    ],
+    "display": {
+      "nodeSize": 3,
+      "linkThickness": 2,
+      "linkDistance": 169,
+      "nodeRepulsion": 2800,
+      "distanceFromFocal": 330,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": false,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "bu"
+    }
+  },
+  "temporaryGlobalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": false
+    },
+    "groups": [
+      {
+        "query": "path:\"Planets/03 - Earth\"  ",
+        "color": "#1ec85f"
+      },
+      {
+        "query": "tag:#Remnant-state  ",
+        "color": "#00ff11"
+      },
+      {
+        "query": "path:\"Planets/01 - Mercury\"  ",
+        "color": "#cf00eb"
+      },
+      {
+        "query": "path:\"Planets/02 - Venus\"  ",
+        "color": "#00fffb"
+      },
+      {
+        "query": "path:Companies ",
+        "color": "#7d7d7d"
+      },
+      {
+        "query": "path:\"Planets/05 - Jupiter\"  ",
+        "color": "#ffbb00"
+      },
+      {
+        "query": "path:Factions  ",
+        "color": "#ffffff"
+      },
+      {
+        "query": "path:!Sol System",
+        "color": "#e909a3"
+      }
+    ],
+    "display": {
+      "nodeSize": 6.2,
+      "linkThickness": 3,
+      "linkDistance": 125,
+      "nodeRepulsion": 3000,
+      "distanceFromFocal": 350,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": false,
+      "showLinkArrow": false,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "pluginSetting": {
+    "maxNodeNumber": 1000,
+    "searchEngine": "default",
+    "rightClickToPan": false,
+    "commandLeftClickNode": "openNodeInNewTab",
+    "commandRightClickNode": "focusNode"
+  }
+}

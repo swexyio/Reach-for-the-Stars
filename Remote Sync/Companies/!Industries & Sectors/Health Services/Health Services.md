@@ -1,0 +1,8 @@
+[[!Industries & Sectors]]
+Health services are one of the fundamental sectors of society and the economy. The ILO endorses the fundamental principles of the human right to health and social protection. Providing [social health protection](https://www.ilo.org/secsoc/areas-of-work/policy-development-and-applied-research/social-health-protection/lang--en/index.htm)  and equal access to quality health care has significant positive effects on individual and public health, economic growth and development. The health sector is also a major employment sector, with important potential in job creation.  
+  
+Yet, the global shortages and unequal distribution of qualified health personnel are a major constraint in providing universal access to health care. The UN High-level Commission on Health Employment and Economic Growth called for investments in the health workforce, underscoring the contribution of the health sector to national economic growth.  
+  
+Decent work for health workers is essential to provide quality health care. The ILO supports improvement of working conditions and labour relations in the health sector through [sectoral labour standards](https://www.ilo.org/global/standards/WCMS_067000/lang--en/index.htm)  and [social dialogue](https://www.ilo.org/global/topics/workers-and-employers-organizations-tripartism-and-social-dialogue/lang--en/index.htm) , and collaborates with [World Health Organization (WHO](http://www.who.int/topics/health_workforce/en/) ) to promote supportive, enabling and healthy work environments for the health workforce, including through the ILO-OECD-WHO Working for Health Programme.
+
+- https://www.ilo.org/global/industries-and-sectors/health-services/lang--en/index.htm

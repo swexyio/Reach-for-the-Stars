@@ -1,0 +1,11 @@
+Mercury 4,782,630
+Venus 10,577,451,320
+Earth 8,000,922,871
+Mars 3,112,476,560
+Belt 150,560,302
+Jupiter 910,028,651
+Saturn 510,532,959
+Uranus 62,987,216
+Neptune 408,921
+Kuiper 10,516
+Uncounted 488,182

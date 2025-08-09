@@ -1,0 +1,34 @@
+[[Enju Aerospace]]
+
+| Governor/ess Supreme (2998) | Tivoli IX Clemens                                                        |
+| --------------------------- | ------------------------------------------------------------------------ |
+| Headquartered               | achi, Clemens (c. Tibiti, Suriname)                                      |
+| Industry                    | ipbuilding, Machine, Defense                                             |
+| Associations                | Enju Aerospace                                                           |
+| Enemies                     | ble Metallurgy                                                           |
+| Ship Prefix                 | CSDS "Clemeni Special Directorate Ship "                                 |
+| Flagship                    | CSDS Kimberlite, "Pressure Keep"                                         |
+| Industrial Sector           | [[Mining (Coal; Other Mining)]] [[Oil and Gas Production; Oil Refining]] |
+
+Vertically integrated mineral extraction firm originally founded in 2182 by Tivoli Clemens (2161-2258, ph. dynastic Tivoli I Clemens) on her family's land in old Earth's Suriname. The discovery of Kimberlite pipes in the area surrounding the Tibiti river had led her family to buying up land for "development", rather being thinly-veiled prospector missions. Tivoli's father was Friedrich "Grand Duke" Clemens (2130-2201), an eccentric man who believed himself royalty of a lost Dutch "tribe". Her mother was of Lokono-Arawak descent named Kaachi Sabjo-Clemens (2137-2198), a local Indigenous Activist turned shrewd businesswoman in her later life in part by her proximity to the Mad Duke.
+
+The Kimberlite money allowed Tivoli to take opportunistic swings at purchases on drooping subsidiaries. Swiftly building up a complex network of guarantees that put her at the head of Trillions of dollars in mineral production worldwide. Tivoli's grandson Jan Clemens would arm CME with the feckless control of local governments turning the entity into a quasi-State capitalized at the Tibiti river mouth.
+
+Enju took an early interest in Clemens, the company and woman. Her cruel methods of turnabout employed to gather her cadre and the extra-national goals of her organization aligned well with the giant turning over in Michigan. Enju began with corporate espionage operations before Tivoli's death, implanting a multitude of agents into the organization in short succession to begin understanding the inner workings of the enemy. Tivoli's son, Daan (2212-2301) resigned to Head of the Board to live a more hands-off life, banking off the luxury of his family's estate. Jan (2236-2296), his nephew, saw this misuse of his uncle's birthright as an affront to the memory of his grandmother and recruited his mother Lieke (CFO) and Tivoli's husband Alexander (CIO) into a conspiracy to reestablish the strength of the executive into the company, and by extension the mining settlements. Jan built out the settlements into employment centers. All levels of citizens were welcomed and the native people's were welcomed with a variety of expensive concessions, and a large amount of forced relocations, to work their population from their ancestral lands to be converted into Clemeni nobles. 
+
+The arming of the Tibiti Fist (TF) began in 2254 with Jan's expanded role as Junior Acquisitions Officer. He was able to present and convince his local team that Acquisitions necessitated military power, especially with the declining power of national governments as they were torn to parts by private interests. By 2262 Jan had become CAO (Chief Acquisitions Officer) through sharp maneuvering and the Triumvirate formed with his elders. The TF had been woven into nearly ever expedition CME undertook and the low-level and mid-level workers & management took note of the air of confidence they seemed to exude while never overstepping their bounds by charter. Jan had established an order to ingratiate themselves to the people on the ground and flex the value of the Fist as a workforce. Through a multitude of false flags set off across the Tibiti basin by Jan and his underlings. Firebombing of the jungle on the outskirts of -Western agro-village- was coolly tended to by local construction workers and agro-technicians. Assigned very specifically to be prepared at a moments notice to switch to firefighting duty and have themselves declared heroes.
+
+A large city was threatened by a terrorist organization with the internal water-purficiation plant being threatened with biological warfare. A biotech algae would be dumped into the water supply at a ransom. TF Workers engaging in street work were seen calmly walking off of the job and into the building to disable the threat in under 12 minutes. This event became known as the Quarter Hour Rebellion as the organization involved *The Shining Way of the River's Children* was swiftly routed and systematically executed on Public Broadcast Channels.
+
+The Shining Way had been coerced into their position and given assurances by Tibiti Fist operatives that they were undertaking a coup and had their full support. The internal doctrine for Tibiti was to ensure qualified agents in EOD were near the site for improvements to the city's infrastructure. Over time the Tibiti Fist became the guardians of the public and by 2267 a Tibiti member had been elected Mayor of the capital cities, with the Clemeni Parliament majority Tibiti. With the approval of the public Tibiti began undertaking invasions and raids of neighboring South American countries to secure the sources of the Tibiti river confluence. In 2269 Daan Clemens was forced out of his position as Head of the Board and replaced with Jan, then representative of Tibiti as a whole taken out of the shadows. Jan would establish the Clemens State and organize a constitution, institutionalizing the goal of the Clemens State to "reclaim land in the hands of those unrightfully settled" and establishing presidential elections every 6 years along with a parliament set to be elected every 4 years. Jan became a founding father to a nation that Tivoli had worked to create confidence in. He was elected to the presidency in the first organized election in 2270. The Regional Manager that Jan unseated came in 2nd, and Daan came in 3rd. 
+
+Relationship to Latex extraction in the region *5* 
+
+
+
+Reference:
+1. https://en.wikipedia.org/wiki/Arawak_language
+2. "Lokono" would signify directly of the tribe, however this seems disrespectful to use as a non-Native speaking author
+3. https://medium.com/sunhead-magazine/the-lokono-me-21st-century-arawak-girl-24e6527b40f8
+4. https://lastrealindians.com/news/2014/1/10/jan-10-2014-first-lokono-arawak-twins-in-living-memory-to-receive-amerindian-names-by-damon-corrie
+5. https://naturalsciencesresearch.wordpress.com/2012/10/19/suriname-along-the-tibiti-river/

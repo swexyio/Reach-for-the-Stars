@@ -1,0 +1,7 @@
+[[!Industries & Sectors]]
+The hotels, catering and tourism sector is one of the fastest growing sectors of the global economy. It is also among the top-job creating sectors because of its labour intensive nature and its significant multiplier effect on employment in other related sectors. Yet, the sector has a reputation of poor working conditions due to a number of factors: it is a fragmented industry with the majority of employers being small and medium sized enterprises with low union density, and work characterized by low wages and low levels of skill requirements, shifts and night work, as well as seasonality.  
+  
+### Work according to ILO’s Decent Work Agenda  
+In the HCT sector, the ILO tackles these problems through sectoral activities related to the ILO’s four pillars, which together constitute the ILO’s Decent Work agenda, which are [Labour Standards](https://www.ilo.org/global/industries-and-sectors/hotels-catering-tourism/WCMS_162196/lang--en/index.htm) , [Employment](https://www.ilo.org/global/industries-and-sectors/hotels-catering-tourism/WCMS_162187/lang--en/index.htm) , [Social dialogue](https://www.ilo.org/global/industries-and-sectors/hotels-catering-tourism/WCMS_162194/lang--en/index.htm)  and [Social protection](https://www.ilo.org/global/industries-and-sectors/hotels-catering-tourism/WCMS_162195/lang--en/index.htm) .
+
+- https://www.ilo.org/global/industries-and-sectors/hotels-catering-tourism/lang--en/index.htm

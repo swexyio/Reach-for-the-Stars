@@ -1,0 +1,1 @@
+This note is to record the ideas for different imagery around the system and setting

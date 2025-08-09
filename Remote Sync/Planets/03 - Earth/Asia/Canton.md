@@ -1,0 +1,2 @@
+#Remnant-state
+[[!Location - Asia]]

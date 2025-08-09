@@ -1,0 +1,1 @@
+Wide-bodied freighter with attachment points for freight containers underneath. When loaded looks like a pregnant guppy

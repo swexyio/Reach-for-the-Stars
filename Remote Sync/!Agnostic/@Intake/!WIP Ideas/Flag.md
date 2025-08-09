@@ -1,0 +1,1 @@
+Circle with 2 horizontal lines central. One goes left other goes right. Shadow under each side to highlight

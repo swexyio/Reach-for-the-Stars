@@ -1,0 +1,5 @@
+- Cult of Ganymede / Attendants of the Empyrean Intelligence - Callisto
+- Binary Exodites / True Attendants of the Empyrean Processor - Callisto
+- Tranquility of Venus / Alienheads - Venus
+- Astrism - Outer Planets
+- Ibrahims - Earth, Scattered Diasporas where fundamentalist populations are located. 

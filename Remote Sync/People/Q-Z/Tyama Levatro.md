@@ -1,0 +1,1 @@
+![[tyama-lvatro-42yo-concept.png]]

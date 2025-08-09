@@ -1,0 +1,14 @@
+[[!Industries & Sectors]]
+Metals are commodities without which a modern industrialised economy could not exist. Iron and steel in particular are ubiquitous and are central to meeting basic needs such as housing and mobility. Basic metal production encompasses the activities of smelting or refining ferrous and precious, as well as other non-ferrous metals from ore or scrap, using metallurgic techniques. It also comprises the production of metal alloys and super-alloys by adding certain chemical elements to pure metals. The output of smelting and refining, usually in ingot form, is used in rolling, drawing and extruding operations to make products such as plate, sheet, strip, bars, rods, wire, tubes, pipes and hollow profiles, and in molten form to make castings and other basic metal products.
+
+### A cyclical industry
+
+Basic metal production experienced a boom in recent years due to a significant increase in commodity prices. New investments, in most developing countries in the form of FDI, created new possibilities for employment and development. Fuelled by the high prices for metals, mergers and acquisitions considerably changed the industry, creating new global players in a sector that had, until recently, been characterized by numerous small (often state-owned) enterprises,  
+  
+Falling prices for most metals indicate that the growth experienced in the sector has likely come to a halt, suggesting the potential end of the so-called “supercycle” and the return of the cycles that characterized the industry in previous decades. Uncertainties as to employment and its nature in the sector have also been fuelled by calls for the industry to change production processes in ways that would reduce its carbon footprint. Work is being undertaken on assessing the implications of these changes.
+
+### Safety and health
+
+Occupational safety and health remains a challenge. In comparison to other manufacturing sectors, risks of severe injuries are generally higher in basic metal production, due to the presence of hazards such as molten metal. These dangers resulting from the nature of the industry are great and need to be adequately addressed, in order to ensure that workers are protected and production can be carried out safely. For this reason, the ILO has paid particular importance to developing codes ([Code of practice on safety and health in iron and steel industry](https://www.ilo.org/global/topics/safety-and-health-at-work/normative-instruments/code-of-practice/WCMS_112443/lang--en/index.htm)  and [Code of practice on safety and health in the non-ferrous metals](https://www.ilo.org/global/topics/safety-and-health-at-work/normative-instruments/code-of-practice/WCMS_107713/lang--en/index.htm) ) assisting all those involved in the industry to improve safety and health records.
+
+- https://www.ilo.org/global/industries-and-sectors/basic-metal-production/lang--en/index.htm

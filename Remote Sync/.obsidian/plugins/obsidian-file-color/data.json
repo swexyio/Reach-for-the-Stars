@@ -1,0 +1,52 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "91jayLpde-it5E8aTjFeC",
+      "name": "Earth",
+      "value": "#7eca7d"
+    },
+    {
+      "id": "rQ98mcFNZnmAZhyqDafyB",
+      "name": "Venus",
+      "value": "#d3943c"
+    },
+    {
+      "id": "uWU4xjAtyhWF_wXKnRB2J",
+      "name": "Mars",
+      "value": "#d26565"
+    },
+    {
+      "id": "e1g9g04l0h45iDlpmSYCn",
+      "name": "Mercury",
+      "value": "#d5c67c"
+    },
+    {
+      "id": "Ijs8K5OPDRLANoXhgCd4N",
+      "name": "Asteroid Belt",
+      "value": "#c7c7c7"
+    },
+    {
+      "id": "cfzyBuMNjwXZH9i8P6-Qa",
+      "name": "Jupiter",
+      "value": "#8c5f2c"
+    },
+    {
+      "id": "M3Wk95JCPiF8GILBtKsdq",
+      "name": "Saturn",
+      "value": "#fff700"
+    },
+    {
+      "id": "kPndYlukqLrlZPARY0R63",
+      "name": "Uranus",
+      "value": "#85cccb"
+    },
+    {
+      "id": "vz1VsCV8SGFpNFFH8D2aP",
+      "name": "Neptune",
+      "value": "#4c95ae"
+    }
+  ],
+  "fileColors": []
+}

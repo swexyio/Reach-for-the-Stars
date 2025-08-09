@@ -1,0 +1,4 @@
+[[!Industries & Sectors]]
+The ILO supports international education goals through numerous decent work strategies, including combatting child labour, promoting social dialogue and freedom of association, and developing skills and employability strategies. The ILO also supports the key people who deliver education: teachers. Together with UNESCO, the ILO promotes principles of quality teaching through two Recommendations concerning teaching personnel, as well as the [Joint ILO/UNESCO Committee of Experts on the Application of the Recommendations concerning Teaching Personnel](https://www.ilo.org/global/industries-and-sectors/education/ceart/lang--en/index.htm) .
+
+- https://www.ilo.org/global/industries-and-sectors/education/lang--en/index.htm
